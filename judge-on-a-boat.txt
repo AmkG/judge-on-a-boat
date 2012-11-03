@@ -1044,3 +1044,115 @@ resource.  In any case, I'll grant you your
 three minutes -"
 
 
+Chapter 12
+
+Nicole spent the first of her three minutes
+explicitly assigning whole numbers -
+utilons - to the expected utility of the
+outcomes.
+
+The utilon technique was a rationality
+technique by which a person attempted to
+extract his or her preferences - the
+utility function - and then use his or her
+trained mathematics skills rather than the
+less precise built-in brain circuitry.
+
+In this technique, one assigns an arbitrary
+number to a particular outcome, then
+compared other outcomes and gave various
+scores to each outcome, depending on
+whether the outcomes were judged to be
+better or worse than the base outcome.  It
+was a refinement of an older technique,
+where a person might list his or her
+options, and put the pros and cons of each
+option, weigh each of them (or essentially,
+assign utilon scores, positive for pros,
+negative for cons), and then come up with a
+decision.
+
+With training and practice - which Nicole
+had much of - the decision-making process
+could be made speedily, without the crutch
+of pencil and paper.
+
+First arbitrarily assign 10 to the outcome
+that the community's trust of their shared
+precommitment would be preserved; this
+would be a +10 for the punishment option.
+Maintenance of her authority as Judge was a
+minor positive for punishment, so give that
++2 (punishment 12, non-punishment 0).  The
+resources required for punishment were
+an issue almost as important as the
+community's trust in precommitment, and
+probably a bit more in their situation, so
+let's call that even and give it a +10 on
+par with the basis, score for
+non-punishment (punishment 12,
+non-punishment 10).
+
+Assuming a continued maintenance of
+sanity, the trust of their tiny community
+of Raphael would be returned upon
+punishment.  Assuming the community as a
+whole had a score of 10 - after all, this
+was what she had assigned as the score
+for the community's trust and its shared
+resources - then a fifth of their
+community, Raphael, would be +2.  So give
+the returned trust after punishment a
+score of +2 in favor of punishment
+(punishment 14, non-punishment 10).
+
+As for deterrence - assume that the
+punishment would deter one other member
+of their community from needlessly
+sacrificing himself or herself.  So that
+would be another +2 in favor of
+punishment (punishment 16, non-punishment
+10).
+
+Suppose that punishment irretrivably
+marked Raphael as "non-cooperator" in the
+minds of the community members.  Again,
+give that the individual member score of
++2, this time for non-punishment
+(punishment 16, non-punishment 12).
+
+Punishment it was.
+
+Nicole then allocated the next minute for
+considering what punishment to apply.
+
+The punishment should, as much as possible,
+cover the important requirements:
+deterrence, rehabilitation, incapacitation,
+retribution.  Also, it would have to be as
+low in the cost on the community as
+possible, so call that the cost
+requirement.
+
+Before making a decision, the first step
+was to explore the options available.
+
+According to rationality Senseis, one common
+failure in rationality was to select some
+option too early; this unnecessarily
+overprivileged that option, biasing it as
+the de facto status quo that needed to be
+unseated before another option could take
+its place.  Instead, the Senseis thought, a
+person or group making a decision should
+generate as many options as possible, and
+avoid precommitting to any options.  Once a
+set of options had been selected, only then
+should they be evaluated; finally, one
+could be selected.
+
+Nicole spent five seconds with her eyes
+shut, clearing her thoughts of possible
+options that might have infected her brain
+before they could properly be captured,
+restrained, and evaluated.
