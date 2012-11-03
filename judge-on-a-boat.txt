@@ -1128,25 +1128,26 @@ considering what punishment to apply.
 
 The punishment should, as much as possible,
 cover the important requirements:
-deterrence, rehabilitation, incapacitation,
-retribution.  Also, it would have to be as
-low in the cost on the community as
-possible, so call that the cost
-requirement.
+(a) deterrence, (b) rehabilitation,
+(c) incapacitation, (d) retribution.  Also,
+it would have to be as low in the cost to
+the community as possible, so call that
+the (e) cost requirement.
 
 Before making a decision, the first step
 was to explore the options available.
 
 According to rationality Senseis, one common
-failure in rationality was to select some
-option too early; this unnecessarily
-overprivileged that option, biasing it as
-the de facto status quo that needed to be
-unseated before another option could take
-its place.  Instead, the Senseis thought, a
-person or group making a decision should
+failure in rationality was to select,
+consciously or unconsciously, some option
+too early; this unnecessarily overprivileged
+that option, biasing it as the de facto
+status quo that needed to be unseated before
+another option could take its place.
+Instead, the Senseis thought, a person or
+group trying to make a decision should
 generate as many options as possible, and
-avoid precommitting to any options.  Once a
+avoid precommitting to any option.  Once a
 set of options had been selected, only then
 should they be evaluated; finally, one
 could be selected.
@@ -1156,3 +1157,93 @@ shut, clearing her thoughts of possible
 options that might have infected her brain
 before they could properly be captured,
 restrained, and evaluated.
+
+Then she opened her eyes, to see what options
+she had -
+
+(1) she could give Raphael a stern warning,
+(2) she could ask Julia to jury-rig some
+kind of restraint, (3) she could ask
+Michael to always keep an eye on Raphael,
+(4) she could limit Raphael's right to
+engage in community benefits for a limited
+time period, (5) she could obligate Raphael
+to pay for community costs, also for a
+limited time period.
+
+Now she considered her requirements.  The
+most important was the cost to their tiny
+five-person community who, for the moment,
+owned a boat, and such materials that Julia
+might find or scavenge from it, as communal
+property; give the (e) cost requirement a
+base utilon score of 50.  Both
+(a) deterrence and (c) incapacitation would
+reasonably be considered equal to each
+other in importance, she thought, and each
+individually was perhaps almost, but not
+quite, as important as the cost
+requirement; give them a base utilon score
+of 40 each.  For the (b) rehabilitation
+requirement, perhaps it could be
+considered less immediately vital, at
+least given their limited situation; give
+that a base utilon score of 30.  For
+(d) retribution, give that a base score of
+10.
+
+For the option (1) warning, it could be a
+reasonable, but not perfect, deterrence,
+so give that perhaps 30.  It might be a
+good rehabilitation, so maybe 25 (total
+55).  A good warning might prevent
+Raphael from trying something similarly
+foolhardy in the future, but not very
+well; give that incapacitation score
+only 20 (total 75).  It may satisfy the
+needs of retribution quite well, so give
+it the full score (total 85).  And of
+course it was cost-free, so give the
+full 50 for cost (total 135).
+
+- and so on she thought.
+
+Option (4) won - prevent Raphael from
+enjoying community benefits for a time.
+
+And for the final minute -
+
+How to implement this choice.
+
+What benefits could the community have?
+Nicole was now on a roadblock.  Their only
+benefit was being relatively drier inside
+the boat.  But to have Raphael replace
+Michael's position hanging on outside the
+boat would totally eliminate the
+incapacitation score; being outside the
+boat meant that Raphael could more
+easily swim off.  Especially now, Raphael
+knew that Michael could only beat him if
+Raphael had an encumbering lifevest and
+Michael did not; the next time, Raphael
+may very well make good by taking off
+his own lifevest before attempting to
+swim off.
+
+No, wait, there was another benefit that
+the community could engage in.
+
+Human beings had a desire to give to other
+people in their community.  Now that
+Nicole had thought about it, it was in
+fact a highly appropriate punishment.
+Raphael had attempted to sacrifice his own
+life in order to give to others in the
+community, in direct contravention to the
+agreed precommitment that such a sacrifice
+would be done by lots.
+
+Raphael would be disallowed and exempted
+from sacrificing himself, for a period of
+time.
