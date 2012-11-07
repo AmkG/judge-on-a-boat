@@ -2272,3 +2272,208 @@ exists-saboteur is true, from a universe where
 not-exists-saboteur is true.  Better to look with
 fresh eyes and see the evidence.  With that, I
 think it best for us to proceed."
+
+
+Chapter 20
+
+Confusion might have engulfed her.  Terror might have
+overtaken her.  They were there, at the edge of
+rationality; she was not specifically trained to handle
+that, especially terror, as those were not expected to
+occur often in her chosen vocation.  Still, even basic
+rationality techniques were general enough to at least
+serve as speedbumps against confusion and terror.
+
+"I don't know," Julia was saying, "I'm not sure..."
+
+Katja was still berating Julia, insisting that she
+tell everyone her expert opinion.  Michael was speaking
+more soothingly, but what he was saying pretty much the
+same thing that Katja was.
+
+The problem with "I don't know" was that it gave too
+little information to another rational Human being.
+
+Consider one person, known to be perfectly trustworthy
+perfect observer, visiting another person in a sealed
+room.  The first tells the second that outside there is
+an apple tree - a true statement, since the person is
+perfectly trustworthy and a perfect observer - and
+challenges the second person to give his knowledge on
+the number of apples on the apple tree.
+
+The second person might reasonably say "I don't know,"
+but this was too little information to extract from the
+given knowledge - the existence of the apple tree.
+
+A better rationalist would, more reasonably, say, "I
+don't know exactly, but I'd assume it to be between 0
+apples and 1,000 apples."
+
+Obviously, no known apple tree can carry, say, a
+million apples, much less a billion apples.  But a plain
+"I don't know" did not capture that knowledge that the
+second person already possessed.
+
+Between someone saying "I don't know where the keys
+are," and someone saying, "I don't know where the keys
+are, but I last saw them on the dining table," one
+could say that the second had given more information.
+And yet both could legitimately say "I don't know."
+
+Knowledge was not a binary condition; when you zoomed in
+on the details, the lines and edges of "known-to-be-true"
+and "not-known" were actually probability distributions.
+A rationalist might not bet even odds that the apple tree
+in question had fewer than 10 apples, but he or she might
+accept a bet at a hundred to one against.
+
+And if Julia had some evidence which increased the
+probability of sabotage above the base probability of
+'almost never', meaning some value infinitesimally lower
+than 0.01% (given the ubiquity of cameras, the larger
+reported incidences of accidents versus incidences of
+deliberate sabotage in the recent years, and so on), then
+not sharing that evidence would be equivalent to
+misrepresenting the level of danger they were in.  No
+matter that she did not know for certain: they were all
+rational, thinking sapient beings.  They had the minimum
+rationality training required of Full Citizens.
+
+So: how to extract that evidence from a demisavant?
+
+- "Excuse me, may I speak?" someone said.
+
+It was Raphael.  Good, at least now he was engaging with
+the rest of the community.
+
+Then Nicole realized that if Raphael truly felt like an
+integrated member of their tiny community, he probably
+wouldn't be asking permission to speak.
+
+Katja glared momentarily at Raphael, then blinked and
+put her face into a more neutral expression; at least she
+remembered that she had precommitted to giving Raphael a
+chance to prove at least basic rationality.  Michael
+stopped speaking, and Julia stopped shaking her head and
+repeating "I don't know" over and over.
+
+There was silence.
+
+Raphael still didn't speak.  Break the ice, then.
+"Okay," said Nicole, "please speak, Raphael."
+
+Raphael licked his lips, then said, "My current
+registered vocation is accountant, but some time ago I
+started to dabble into Administration.  My company sent
+me to Earth for formal Administrator training, so I
+suppose you could say that they found it more efficient
+to retrain my hobby rather than hire a registered
+expert."  He paused, looked at Nicole, and said,
+"Nicole isn't a full Judge yet, but we call her Judge
+provisionally now because she has the most knowledge of
+that field, and relative to the rest of us she is an
+expert.  So, may I at least claim to be Administrator
+in our community?"
+
+Nicole nodded.  The others seemed less certain, so she
+said, "Yes, Administrator."  She smiled.
+
+"Of course," Raphael said, "an Administrator handling a
+tiny group is not very efficient, so I'm still not
+really all that useful.  However, at least let me point
+out that we might do better to use some form of
+disputation arena while deciding on whether or not we
+are at increased risk because of the existence of a
+saboteur among us."
+
+"Well," said Katja, "how can we hold a disputation
+arena in this kind of situation?  An Arty-Delphi is
+impossible without a central server, and a Deepy market
+needs a backing monetary institution, unless Julia
+can rig a bank and an economy out of metal and
+rubber."
+
+"There are older forms of disputation arenas," said
+Raphael, "which are much lower tech than a Real Time
+Delphi Method or a Decision/Prediction Market.  We can
+use a modified form of Nominal Group Technique."
+
+"Okay," said Michael, "what's that involve?  I've never
+heard of it."
+
+"It's a very simple disputation arena," said Raphael.
+"Less flexible than any of the Delphi methods, and does
+not integrate anonymous information at all, unlike most
+Delphi methods which can integrate minor anonymous
+information and the prediction markets which are almost
+completely about anonymous information.  However it is
+simple, low tech, relatively fast, and engenders better
+feelings of -"
+
+"Administrator," said Nicole, "the method, please?"
+
+"Sorry," Raphael said.  "First, we introduce the
+problem to be considered.  I think Katja's introduction
+of this issue can serve well enough.  Then, each of us
+thinks, without discussing with anyone else, for a short
+time - perhaps fifteen minutes will be enough, in order
+for each of us to review as much information as we can
+remember of the crash last night.  Ideally, we'd write
+our own notes, but we lack even pen and paper -"
+
+"Wait!" said Julia.  "I have paper.  And a pen.  I'm an
+Engineer, of course I'll have paper and pen!"
+
+"Do you have enough paper and pens for all of us?" said
+Raphael.
+
+"No," said Julia, "only one pen, unfortunately.  Spares
+were in the bag, which didn't survive, I suppose.  I do
+have a small notepad.  It's not even damp!"
+
+"That's fine," said Raphael, "you can be the
+facilitator later.  Anyway, after the fifteen minutes of
+thinking are up, each of us presents what we thought
+about during the fifteen minutes, one at a time.  I
+suppose I can start the ball rolling, and we'll go to
+the left of the previous speaker.  Now the important
+bit: during the initial presentation of thoughts, the
+only questions allowed are questions of clarification,
+regarding exactly what is meant.  No challenges, no
+counterproposals while someone else is speaking.  During
+this initial presentation, the facilitator jots down
+notes about what each person said.  The main ideas
+taken by the facilitator from the initial presentation
+should really be visible to everyone, but I suppose
+Julia can show her notepad to everyone easily.  Any
+questions yet?"
+
+There were no questions, and then Katja said, "Is that
+all?"
+
+"No," said Raphael, "after all members have given the
+initial presentation of ideas, we then try to merge
+similar ideas.  At this stage we have counterproposals
+and syntheses of ideas.  Then each of us ranks the
+ideas, and then we have a consensus."
+
+"I'm not an Administrator," said Michael, "but is that
+really a disputation arena?"
+
+"Yes," said Nicole, before Raphael could answer.  "The
+requirements of a disputation arena are: the
+centrifugal phase, where each individual can first
+decide on their own ideas freely of other ideas; and
+the centripetal phase, where the ideas are put in
+competition against other ideas - the actual arena.
+It's better to have this loop repeatedly, and better
+to do it in real time, which is why Arty-Delphis and
+Deepy markets are the preferred ones, but - yes, what
+Raphael described is a valid disputation arena!"
+
+Nicole noted that Raphel looked a lot more pleased
+and a lot more effectively a valued community member
+now.
+
+
