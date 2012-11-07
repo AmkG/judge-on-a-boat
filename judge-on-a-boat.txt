@@ -2294,7 +2294,7 @@ same thing that Katja was.
 The problem with "I don't know" was that it gave too
 little information to another rational Human being.
 
-Consider one person, known to be perfectly trustworthy
+Consider one person, known to be a perfectly trustworthy
 perfect observer, visiting another person in a sealed
 room.  The first tells the second that outside there is
 an apple tree - a true statement, since the person is
@@ -2496,3 +2496,67 @@ effective rationality, rather than -"
 wouldn't have mattered who did.
 
 
+Chapter 21
+
+"Character development, Judge," said Verrens, when
+he saw Adams put down his copy of the chapter.
+
+"Yes," said Adams, "and if I think I know the
+designer of the novel's plot, well, this is simply a
+set up for another moral decision soon.  Although
+she has been quite imaginative about such twists
+recently, and I would rather enjoy what it might end
+up being, rather than speculating about what it might
+be."  He smiled - no, he grinned - and said, "So I
+will quite legitimately say 'I don't know', as I
+prefer to squeeze a bit of fun out of this situation
+and watch you speculate on what it might be."
+
+Verrens sighed in response.  "A secret whose
+existence is known," he said, "and thus may very well
+haunt me, at least for the next few chapters, until
+it is revealed.  And I suppose you will obstinately
+say 'I don't know' quite unhelpfully, while you
+enjoy your more accurate speculations, due to the
+greater knowledge you have that you will not share
+with me."
+
+Adams laughed.  "All right, then," he said, "I will
+give you my own speculations, but only regarding the
+topic of sabotage.  Regarding the moral decision
+that I suspect will occur soon, you are on your own.
+In our modern world, provable sabotage occurs once
+for perhaps every ten thousand accidents; assume
+that the true incidence of sabotage is an order of
+magnitude higher than the ability to show evidence
+of sabotage - somewhat unlikely, as this means the
+ubiquitous cameras are not that useful and are
+probably a waste of energy maintaining.  But even
+so the base probability of sabotage is only about
+one out of a thousand."
+
+Adams cleared his throat.  "Now, suppose that our
+characters reveal additional information.  In
+order to be on par with the case of accidents,
+that information would have to move up the
+probability by three orders of magnitude.  So, I
+might bet on sabotage if I would win ten credits
+for, say, one credit loss if I'm wrong, but for
+an even bet I'll bet on an accident."
+
+Verrens sat silently, considering.  "Your
+analysis seems reasonable, Lord Judge," he said.
+"However, I'm not certain if you've factored in
+the growing tide of Technological Renouncers.
+There is now a growing number of radical members
+of such groups.  Using a similar analysis as yours,
+I would bet at a rate of five is to one against."
+
+Adams frowned.  "Is that true?" he said.  "Ah,
+never mind; my dislike of the Reporter vocation has
+just asked for its cost.  Well, then, I should
+probably update my own estimates, in light of your
+knowledge.  Thank you for showing me an error in my
+map."
+
+"You're welcome, Judge," Verrens said.
