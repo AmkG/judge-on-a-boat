@@ -2390,9 +2390,8 @@ saboteur among us."
 "Well," said Katja, "how can we hold a disputation
 arena in this kind of situation?  An Arty-Delphi is
 impossible without a central server, and a Deepy market
-needs a backing monetary institution, unless Julia
-can rig a bank and an economy out of metal and
-rubber."
+needs a backing monetary institution, unless Julia can
+rig a bank and an economy out of metal and rubber."
 
 "There are older forms of disputation arenas," said
 Raphael, "which are much lower tech than a Real Time
@@ -2556,7 +2555,184 @@ Adams frowned.  "Is that true?" he said.  "Ah,
 never mind; my dislike of the Reporter vocation has
 just asked for its cost.  Well, then, I should
 probably update my own estimates, in light of your
-knowledge.  Thank you for showing me an error in my
-map."
+information.  Thank you for showing me an error in
+my map."
 
 "You're welcome, Judge," Verrens said.
+
+
+Chapter 22
+
+Julia's timer chimed the end of the agreed-upon
+fifteen minute thinking time, and Raphael spoke.
+
+"Okay, I'll start," he said.  "Last night, as is
+usual for planetary drops, we were given sedatives
+in order to relax us during the actual drop; in
+addition, the given sedatives were intended to
+synchronize our bodily circadian rhythm to the
+local time of our drop area.  If the accident
+hadn't occurred, we would be in a much larger
+boat; basically the drop pod would be the boat
+itself, and we would be towed by the ships
+waiting to bring us into port.  So three things
+come to mind at this point."  He held up three
+fingers.
+
+"One is that," Raphael said, ticking off the
+numbers, "we are probably reasonably close to the
+time zone of our original targeted drop area - we
+all awoke at about local sunrise, so our circadian
+rhythms are close to the local time.  Although
+that may not be saying much - a time zone is a
+rather large section of the Earth, and we might
+have landed a good distance north or south of our
+expected drop area.  Second, I would expect that
+currently, a lot of ships - both sea and air -
+will be searching for any survivors.  However, if
+our planetary drop pod crashed a large distance
+from here, then searchers are likely to start at
+the crash site, and search in widening circles
+around it for drop lifeboats like this one.  So
+we may indeed have to wait quite a while before
+rescue."
+
+Then Raphael looked at Michael.  "Which brings me
+to the third thing, which is quite more
+interesting.  From what Julia said, last night
+she pulled in Michael close to the boat.  Now,
+we don't see any other lifeboats nearby, and
+there would be somewhere between fifteen to
+twenty of those, each capable of carrying
+four people.  It's not possible to land from
+space without a vehicle with full drop
+capability, so Michael's original drop lifeboat
+landed within swimming distance of ours, and
+then had problems, not during the drop itself,
+where any problem is likely to be fatal, but
+rather upon -"
+
+"Hey!" said Michael, "let me give my story
+first before you -"
+
+"Point of order," said Nicole, "but I believe
+the rules we precommitted to require that only
+one person can speak at this stage, except for
+questions of clarification."
+
+"But he's trying to build a case that I'm the
+saboteur!" said Michael.
+
+"I'm not," said Raphael, "and you can give a
+full rebuttal of my points during your turn.
+Which is the point of this stage, anyway.  We
+want to encourage people to fully share all
+the relevant knowledge they have; thus,
+anything that could discourage them from
+sharing is disallowed until the next stage."
+He smiled sheepishly, mostly at herself,
+Nicole realized.  "Thank you, Judge.  As
+Administrator I should have been the one to
+actually raise the point of order.  I guess I
+don't have the actual skills yet, just the
+knowledge from my reading about
+Administration."
+
+"You're welcome," said Nicole.  "Michael,
+you'll get your turn later.  Please
+continue, Raphael."
+
+A part of Nicole sank a little as Michael
+glared at her momentarily, but some things
+were more important than -
+
+"Where was I?" said Raphael.  "Ah, yes, the
+other lifeboats.  Now, if the drop lifeboats
+dropped near each other, then we would expect
+either to see other lifeboats, or at least
+their debris - lifeboat parts, dead bodies.
+But I think that would also mean that the
+lifeboats themselves would also land
+relatively near the final crash site of the
+pod, which would mean that we should be
+expecting searchers to find us early.  It's
+been what, eight hours, maybe more?  Given
+current technology, that's a long time.
+Unless, that is, there are other factors
+slowing them down, such as sheer distance,
+or - deliberate slowing down by a larger
+organization than just a single saboteur or
+group of saboteurs on-board the pod."
+
+Raphael dropped his voice, obviously for full
+effect.  "Which, in fact," he said, "makes
+Michael's being here very cogent.  If
+Michael's lifeboat was indeed nearby
+'naturally', meaning that we can expect the
+other lifeboats to be nearby also, meaning
+that the delayed rescue is because of an even
+larger organization preventing proper search.
+The fact that we see no other lifeboats may
+mean that the other lifeboats were never
+successfully ejected from the failing pod -
+and our survival here could also mean that
+this lifeboat was specifically chosen as the
+saboteur's escape."
+
+He continued.  "But if Michael's lifeboat was
+a fluke, and just happened to be nearer to our
+position than on average, then we can relax -
+we haven't been rescued simply because of the
+huge distances involved."  He paused,
+apparently thinking.  "That's all I thought
+about."
+
+"It's my turn?" said Nicole.
+
+"Wait," said Julia.  "So, major ideas: we're
+in the same, or near the same, time zone as
+our original drop; we expect many searchers;
+we expect searchers to start near the actual
+crash zone; Michael got here, which suggests
+that sabotage occurred -"
+
+"Uhm," said Raphael, "that's not quite what I
+meant.  My main idea is that there are two
+possibilities: lifeboats landed near each
+other, which suggests that the lifeboats are
+near the crash site, which suggests that,
+since we haven't been found yet, something
+else is preventing the searchers from
+searching effectively.  The other possibility
+is that the lifeboats landed far from each
+other, which suggests that the lifeboats are
+also far from the crash site, and the reason
+why rescue is taking so long is because of
+the sheer distance.  Michael being here
+suggests the 'near' condition, but the fact
+that we can see no other evidence for other
+lifeboats suggests the 'far' condition."
+
+"So how do I write that down in the notes?"
+said Julia.
+
+"Okay," said Raphael, "write that
+'lifeboats near' implies 'lifeboats near
+crash site' implies 'slow rescue is due to
+external factors, probably sabotage'.  Then
+write a separate bullet point saying
+'lifeboats far' implies 'lifeboats far
+from crash site' implies 'slow rescue is
+due simply to distance'.  Then write
+'Michael is here' implies 'lifeboats near'
+condition, and then write the separate
+'no visible lifeboats' implies 'lifeboats
+far'."
+
+When Julia had written that down, Nicole
+said, "My turn?"
+
+"Yes," said Raphael.
+
+
+
