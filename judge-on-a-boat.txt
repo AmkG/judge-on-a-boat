@@ -2831,8 +2831,8 @@ happen on my boat.  I manually opened the
 capsule, since the entire lifeboat was
 sinking.  I managed to reach the surface,
 swam around screaming, until I heard someone
-shout back and swam towards it.  It was
-Julia, of course."
+shout back and swam towards the sound.  It
+was Julia, of course."
 
 And then -
 
@@ -2846,3 +2846,301 @@ matter.  And I don't think anyone of you has
 considered that fact deeply enough..."
 
 
+Chapter 23
+
+"I vaguely remember, Judge," said Verrens,
+"about Paranoid Debate; isn't it a parlor
+game of some kind?"
+
+"Yes," said Adams.  "Although it is one that
+has been designed specifically as a tool for
+teaching rationalists how to detect deception.
+Basically, a game master prepares a special
+deck of cards, a few of which are red cards
+and the rest being black.  The players are
+dealt a single card at random, and are
+instructed not to reveal it.  Then a question
+is asked, usually one with a numerical answer.
+The players must then debate and the entire
+group should come up with a single consensus
+answer."
+
+"Ah, yes," said Verrens.  "Now I remember.
+The interesting part of the game isn't the
+discussion itself, it's how the individual
+players are scored."
+
+"Correct," said Adams.  "Players who were
+dealt black cards are scored higher if the
+group consensus answer is near the actual
+answer.  However, players who were dealt
+red cards are scored higher the further
+away the group consensus answer is from the
+correct answer -"
+
+"- meaning that the players holding red
+cards should act as deceivers," said
+Verrens.  "But they must also strive not to
+be detected; if someone suspects them of
+being deceivers, what they say can be
+discounted and ignored."
+
+"That is not the only twist," said Adams.
+"In the case where more than one red card
+is in the deck, then there is the problem
+of the deceivers trying to cooperate
+without revealing themselves.  Or to make
+it clearer: consider a Paranoid Debate
+game where multiple deceivers exist.
+Focus on one of the deceivers trying to 
+twist the consensus away from accuracy.
+If another player gives a piece of
+evidence that the deceiver knows is likely
+to be false, the deceiver cannot know for
+certain that the other player is a fellow
+deceiver or an honest player who had
+incomplete or erroneous information.  If
+that player subsequently gives information
+whose accuracy the deceiver truly does not
+have any knowledge about, the deceiver
+cannot simply blindly support the other
+player, since that player might not
+actually be a fellow deceiver."
+
+"I see," said Verrens.  "So the deceivers
+in such a multiple-deceivers game would
+also experience some of the uncertainty
+that the honest players would feel when
+hearing someone else give information that
+they know is incorrect - uncertainty over
+whether that person is the deceiver or
+just an honest player that had an
+inaccurate map."
+
+"Hence the allure of the
+multiple-deceivers variant," said Adams.
+"But that is not all.  The most complex
+variant involves not just multiple
+deceivers, but adds uncertainty over
+the number of deceivers.  The game master
+prepares a deck whose total cards
+outnumber the number of total game
+players by the number of red cards in
+the deck.  Thus there is a small
+possibility that none of the players
+actually hold any of the red cards."
+
+Verrens was silent; his expression
+suggested that he was extremely
+impressed over the variants of the
+game.
+
+"That is the situation, I think," said
+Adams, "that our characters now find
+themselves in: a Paranoid Debate game
+where the number of deceivers itself
+is unknown.  And the question of the
+game is: how many people are holding
+red cards?"
+
+The two Judges considered this for a
+while.
+
+"Shall we continue?" said Adams.
+
+"Wait," said Verrens.  "I've thought of
+it just now, Lord Judge, but this
+discussion of the Paranoid Debate
+game makes me more appreciative of
+something I once read in a general
+Science interest magazine.
+Specifically, a theory developed and
+studied long ago by the Evolution
+Scientists: the Machiavellian
+Intelligence Theory."  He paused to
+gather this thoughts.  "Of the higher
+apes, it seems that only homo sapiens
+was able to achieve a runaway
+intelligence explosion.  Other similar
+apes - pan, gorilla, and pongo - were
+not able to achieve the homo level of
+intelligence."
+
+"Ah, the Machiavellian Intelligence
+Theory," said Adams.  "Or Hypothesis
+when I first heard of it.  Homo band in
+groups for mutual protection, and in the
+modern world, for trade in an era of
+specialization.  Within the group,
+selection must occur between
+individuals, since all members of the
+group gain the same group benefits.  And
+one mutation in the early homo line
+allows some individual to gain an
+advantage, not by being stronger or
+faster - not by manipulating the
+low-order ecological environment - but
+by manipulating the higher-order social
+environment.  And this eventually lead
+to the spread of genes encouraging the
+growth of the social cores of the
+brain - social cores to not only
+manipulate the social environment, but
+also to detect attempts at
+manipulation.  And it is the more
+generalized social cores of the brain
+that are the basis of modern humanity's
+intelligence."
+
+Verrens chuckled.  "I should have
+remembered that you claim to be amateur
+Scientist, Lord Judge David Adams," he
+said.  "Anyway, manipulation of the
+social environment is generally achieved
+by deception - or in other words, lying.
+This requires a larger brain, one capable
+of storing both the true information, and
+the invented false one; to be able to
+keep track of which is which; and
+finally, to extend the false information
+when more evidence supporting it is
+demanded.  The application of this
+theory to our character's situation
+means that they - or rather, those who
+are honest players in the game - need to
+exercise their brains fully to root out
+the red cards - if any."
+
+"Yes," said Adams.  He appeared to think
+for a moment.  "One of the most powerful
+techniques for deception is
+self-deception.  Brains are tuned very
+well for detecting attempts at deliberate
+lie-telling; a consequence of honest
+signalling, which prevents too many
+successful deceivers from imitating
+signals of honesty, which would
+deteriorate the signal and cause everyone
+else to switch to some other signal for
+honesty.  One way of subverting this is
+for the brain to actually act as if it
+truly believes the lie, to the point that
+in all social interactions, the
+individual acts as honestly as possible.
+But in private, where no one is looking,
+the individual - subconsciously, since
+even the conscious mind is subverted to
+prevent it from spilling the secret -
+acts as dishonestly as possible.  Thus
+the abstractions of country that an
+individual would loudly proclaim their
+pride in would suffer from those
+individual's private actions, even as
+their consciousness congratulated itself
+over its patriotism."
+
+"I'm not sure I follow, Lord Judge,"
+said Verrens.
+
+"To give a more concrete example," said
+Adams, "one of my ancestors grew up in
+a country that, at that time, was poor,
+had tremendous corruption, and was
+under the grip of a powerful
+memecomplex.  In his maturity, he went
+abroad to work in one of the more
+affluent countries of the period - in
+fact, my family's home lies within the
+geographic borders of his adopted
+country, which no longer exists now.
+He constantly proclaimed his original
+nationality; his internet handles
+included his nationality; he socialized
+with other people who grew up in the
+old country but now lived and worked
+in his adopted country; and yet, he
+never actually returned to his birth
+country."
+
+Adams looked grimly, remembering his
+research into his own past.  "He gave
+gifts to his relatives, but in terms of
+large-scale economics the value of what
+he sent back was nowhere near the value
+of what was spent on him in order to
+raise him up to adulthood.  His
+children never truly identified with
+his birth country, even though his
+primary partner was from the same
+birth country.  His grandchildren
+never even learned its name.  His
+story was not atypical.  When the
+Helvetian War started, his birth
+country was one of the first whose
+financial systems collapsed, due in no
+small part to people like him, who
+were numerous."
+
+"I see," said Verrens.  "Lord Judge,
+your honorable ancestor -"
+
+"- was not honorable," said Adams.
+"Although I can forgive him.  His
+self-deception blinded him.  Today our
+rationality training prevents such
+self-deception, which is a good thing.
+I'm sorry, please continue."
+
+"Your ancestor, then," said Verrens.
+"Your ancestor was not a rationalist, I
+suppose, as the Helvetian War was
+triggered by the early rise of the
+Senseis.  Thank you, Lord Judge; it
+serves as a useful concrete example of
+self-deception.  His social
+interactions showed him as a patriot,
+but his actual private actions - the
+decision to remain in his adopted
+country and raise his children there,
+the decision to give only the simplest
+social gifts that would not have
+significant economic effect to his
+birth country - belie his actual
+self, which was not patriotic."
+
+"Yes," said Adams.  "A true patriot
+would hardly need to proclaim aloud his
+or her patriotism, but simply directly
+work, for the betterment of his or her
+country."
+
+"Judge," said Verrens, "you are amateur
+Sensei as well, as you mentioned before.
+Rationality training would help against
+self-deception, would it not?"
+
+"My young Judge," said Adams,
+"self-deception was one of the first
+problems that the early Senseis tackled;
+they considered it the most important
+problem of their time.  I mentioned that
+my dishonorable ancestor's birth country
+was in the grip of a powerful
+memecomplex.  At the time of the rise of
+the Senseis, that memecomplex, and many
+other very similar ones, were no longer
+actually believed by many individuals, but
+those memecomplexes acquired, as
+protection, powerful component ideas that
+were intended to actively trigger
+self-deception.  Post-modernist ideas were
+welcomed into the memecomplexes to prevent
+Science from dissecting them, and to
+prevent rival memecomplexes from
+destroying each other.  Today's surviving
+memecomplexes are significantly smaller
+and much more benign, even beneficial,
+than the ones that the early Senseis had
+to destroy.  Protecting against
+self-deception was one of their earliest
+and most powerful tools in that fight."
