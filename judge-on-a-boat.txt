@@ -3158,3 +3158,252 @@ Senseis?"
 
 "Yes," said Adams, "Let me tell you what
 happened -"
+
+
+Chapter 24
+
+"Question of clarification," said Kate, "I
+don't see exactly how the, uh, Notional Group
+Technique is like a game of Paranoid Debate.
+Can you explain?"
+
+"Nominal Group Technique," Raphael muttered.
+"It's not the technique itself that -" he
+started to say, and then - "Executor Thompson?
+If you please?"
+
+"As Administrator Yu was about to say," said
+Michael, "before he remembered the rules he
+himself told us, it's not the technique itself
+which is the Paranoid Debate game.  It's the
+fact that one of us may be a deceiver, and thus
+would deliberately try to lower the group's
+estimate on the possibility of sabotage."
+
+"And," said Nicole, her mind racing, "even if
+none of us is the saboteur, we would -"
+
+"Point of order, Judge Angel," said Raphael -
+
+"We should discuss this, Raphael," said Katja.
+"If Michael is correct, then the disputation
+arena's decision could be contaminated -"
+
+"Wait, wait," said Julia, "I have to tell you
+all first -"
+
+Everybody started talking.
+
+"And if we all discuss this now," said Raphael
+imperiously, "then we might as well freaking,
+freaking -" his face flushed red as he grew
+angry - "we might as well just freaking
+brainstorm!"
+
+The rest of their tiny community stammered
+into silence, Julia last.
+
+"Yes, I said it!" Raphael shouted at them.
+"'Brainstorm', I said!"
+
+"There's no need for that sort of language,
+Administrator," said Nicole -
+
+"Yes there is!" said Raphael.  He seemed more
+calm now.  "Discussing important matters in an
+ad-hoc, high-speed, high-pressure manner was
+precisely the original meaning of that word."
+He sat straight, leaning forward slightly to
+radiate dominance - a move that Nicole
+recognized, from part of her own training.  "And
+the first Sensei-taught Administrators chose to
+make that word into the pejorative term for
+forms of discussion that promote groupthink,
+reduce effective group rationality, and turn
+into large-scale dominance contests rather than
+efforts at compromise and truth-finding.  Today
+we no longer use the term for its original
+meaning, because Administrators simply never
+allow discussions to devolve into that kind of
+condition.  Only its pejorative meaning
+remains."
+
+He look at each of them.
+
+Nicole spoke.  "I'm sorry for triggering the
+earlier, uh, 'brainstorm', Administrator," she
+said.  "I suppose I can understand why the term
+was invented."
+
+"Point of order, Judge," said Raphael.  "Not a
+question of clarification."  Then he closed his
+eyes momentarily.  "Thank you anyway, Judge.  I
+suppose your moral expertise suggests that an
+apology right now is more important.  Now, can
+we return to the discussion, Michael?"
+
+"Not a very good Administrator, are you,
+Raphael?" said Michael.
+
+"Michael -" said Julia -
+
+"I'll handle this, Engineer," said Raphael.
+"Point of order, Executor, no challenges at this
+stage.  Please speak of the ideas you have
+regarding the problem at hand: whether a
+saboteur is among the members of our community,
+how to determine if it is so, and what we can do
+about it."
+
+"Well then," said Michael.  "I hold that Raphael
+attempting to swim away means that he is the
+saboteur."
+
+Many questions and counters to that idea filled
+Nicole's mind.  However, she had precommitted to
+a method, specified by an Administrator, on how 
+to present counter-ideas.  She could understand
+now why Raphael had commented that ideally, pen
+and paper for all members of the discussion was
+really needed.
+
+Wait, asking for clarification was allowed at
+this stage according to the rules she had
+precommitted to -
+
+"Question of clarification," someone said,
+before Nicole could.  It was Raphael.  "Can you
+elaborate more on this thought?"
+
+"Certainly, Raphael," said Michael.  "Raphael
+swam away, not as a result of being insulted by
+Julia, but because he needed to be found by
+his organization - whatever it is - for
+rescue.  His larger organization, as he himself
+said, is slowing down rescue so that he can be
+picked up earlier, and possibly so that the rest
+of us can be killed too."
+
+Michael said nothing more, so - "Is that all,
+Executor?" said Raphael.
+
+"Yes," said Michael.
+
+"Okay," said Julia.  "Michael's reported
+observation on his lifeboat: air bags failed,
+lifeboat floats failed; we are playing Paranoid
+Debate; Raphael swimming away is evidence for
+being saboteur."
+
+Julia licked her lips.  "Is it my turn now?" she
+said.
+
+"Yes," said Michael, "your turn, Julia.  Can you
+handle it?"
+
+"Yes," Julia said.  She breathed in heavily,
+eyes shut.  And then -
+
+"I like the Sousveillance Law," she said, eyes
+still shut.  "Especially when cameras are
+pointed at machines.  Last night, I had my
+personal computing device tuned to several
+different cameras that were monitoring the
+control bridge.  I had my persocom magnify the
+image to focus on the gauges and indicators
+that the crew was monitoring.  Not really good
+enough to see the values on the indicators, but
+good enough..."
+
+She opened her eyes, then, "The sedatives don't
+work perfectly with me, you see", she said.
+"They don't pull me to sleep fast enough before
+the drop actually starts, and afterwards, when
+the pod is in port, I'm still very groggy and
+just half-awake.  So I got only the minimum dose
+that the crew would give me, and set up the
+persocom in front of me, with the bridge
+indicators in view, to help me relax.  It's
+happened to me before, so that's what I do to
+cope."
+
+She paused.  "Just as I was drifting to sleep,
+before the start of the drop," she said, "the
+signal from the cameras failed.  That never
+happened before.  Like Nicole said, the plasma
+ionization during atmospheric re-entry will cut
+off the camera's transmission to the general
+public, which is something that is unavoidable
+and hence exempt from Sousveillance Law, but as
+a good-faith guarantee the cameras should still
+transmit locally on board the pod itself."
+
+There were nods indicating understanding around
+the boat.  Since Julia had somehow suggested the
+possibility of sabotage to Katja earlier, her
+evidence was very interesting to the rest of the
+community.  "That the cameras were shut off was
+not a likely event.  I think it suggests
+sabotage.  However -" she paused - "one detail
+most people are unaware of is that generally,
+the cameras transmit all the time, as long as
+they have power.  And I have no reason to expect
+that the cameras on board the drop pod were an
+exception.  This means that it's likely that the
+cameras, in a normal drop, would still be
+transmitting in real-time to the general public
+even during the drop itself; it's just that we
+expect the ionization during re-entry to
+effectively block the transmission.  If so, then
+it might make sense to knock out the
+sousveillance cameras."
+
+She looked at all of them.  "I'm an Engineer,
+and I am an expert - a fangirl, really - of
+applied Science.  One recent demonstration was
+a receiver that could pick up and reconstruct
+electromagnetic signals transmitted through
+shielding.  Since the ionization during
+re-entry works similarly to shielding, it
+seems likely to me that the saboteurs shut off
+the sousveillance cameras just in case a
+specialized reconstructing receiver, like in
+that demo, could receive the transmitted image.
+Defense in depth, as we Engineers would call
+it."
+
+She was silent, but still looked as if she had
+something to say, so Raphael prompted her. "Is
+that all, Engineer Montega?" he said.
+
+"No, no, not at all," she stammered.  "It's
+just that what Raphael said earlier reminded
+me - the lifeboats are organized by pairs.
+And, and - I saw Michael enter the lifeboat
+that was paired with ours."  She was blushing
+at this point, Nicole noticed, and then Nicole
+realized that her own cheeks, and even her
+ears, were warm, she hadn't noticed Michael
+during the emergency evacuation - anyway (she
+forced herself to pay attention), Julia
+continued, "The pod has an effectively lower
+coefficient of air friction during the drop,
+due to its larger mass versus surface area,
+than the lifeboats.  The effect is that when
+the lifeboats are ejected, the pod would travel
+further than the lifeboats, despite inertia and
+Newtonian physics.  So we might expect the
+lifeboats to be nearby, but the pod itself to
+be somewhat further away."
+
+Raphael shrugged ruefully at this.
+
+"A-anyway," Julia said, "I'm not sure, but I
+would expect that pairs of lifeboats would be
+ejected simultaneously.  So Michael's lifeboat
+being nearer than the other lifeboats would be
+plausible.  I'm not so certain about how much
+distance to the other lifeboats we can expect.
+Depending on the timing, we might expect them
+to be within swimming distance, or much more
+distant."
