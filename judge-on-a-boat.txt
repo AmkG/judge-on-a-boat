@@ -3407,3 +3407,51 @@ distance to the other lifeboats we can expect.
 Depending on the timing, we might expect them
 to be within swimming distance, or much more
 distant."
+
+Julia scribbled in her notepad; then she said,
+"I left my persocom behind.  Lots of my
+personal work and hobbies in there.  I have
+backups but it won't have the ideas I thought of
+during the last trip.  And my family will be
+worried.  I think there was sabotage, but I'm
+not sure.  Not really.  Because a failure at a
+critical point can cause cascades of failures.
+We design machines with defense in depth -
+multiple layers of protection, redundant
+systems, etc. - but we know that sometimes, just
+sometimes, the universe is out to get at a
+machine.  Sometimes the cost to add more
+protection just can't be justified.  So the
+accountants would say - and they'd be right,
+Administrator.  Life is a risk, and we gamble
+with it.  Most of the time the gamble pays off.
+Sometimes it doesn't.  And I'm babbling, I'm
+sorry, so I'll just cut it short and point out
+that a strong-enough power surge can shut off
+the power supply of the cameras, cause damage to
+the pod, and possibly cause various failures in
+the lifeboats.  The source of the power surge
+can be some natural fluke, some accident or
+oversight.  Or it could be sabotage - a very
+simple sabotage, at that."
+
+She raised up her notepad, and said, "Main
+ideas: Julia's reported observation is that
+the cameras stopped transmitting locally inside
+the pod before the accident occurred; cameras
+shutting down during drop suggests a
+well-prepared sabotage; Julia's reported
+observation is that the lifeboats are organized
+by pairs; Michael's boat and this boat being
+near to each other is not likely to be a fluke;
+we can naturally expect the lifeboats to be far
+from the pod, but near to each other, because of
+differences in frictional coefficients due to
+differences in size."
+
+Julia sighed loudly.  "That's all I've got.  I'm
+really sorry for starting this; right now, I'm
+not actually sure there was sabotage at all -"
+
+"It's my turn now?" said Katja.  "Because
+personally I think there was indeed sabotage."
