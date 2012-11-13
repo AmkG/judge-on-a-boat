@@ -3597,3 +3597,251 @@ my map."
 "You're welcome," said Adams.  "And now let us, for the
 Community, read on!"
 
+
+Chapter 26
+
+"After Julia told me," said Katja, "or rather, mumbled
+vaguely about it while flailing around last night in
+the boat checking for something, I remembered a minor
+but strange detail about the sedatives we were given,
+and the wakening gas that brought us up into
+consciousness prior to the evacuation."
+
+Katja paused, gauging the interest of her companions.
+
+"Normally," she said, "a specific sedative is paired
+with a specific wakening gas.  During Medic training,
+I and a group of friends experimented with various
+combinations of sedatives and wakening gases.  It's
+actually one of the things that was taught to us, but
+we preferred to confirm it for ourselves.  Anyway,
+basically: using the wrong wakening gas can still
+stimulate you to wakefulness, but you are, crucially
+enough, slower, much less alert, and much more likely
+to make mistakes than if you used the correct gas."
+
+The charge was serious; the laws against mental
+incapacitation were strict in most jurisdictions,
+Nicole knew.
+
+"As I mentioned," Katja said, "I had experimented with
+such drugs during training - it's not exactly
+discouraged, most Medic trainers want you to experience
+them as much as feasible so that you get better empathy
+for patient experiences - and I can identify the
+different wakening gases by smell.  I didn't note it
+immediately then - probably because the wakening gas
+itself didn't wake me up enough - but I remembered it
+later when Julia reminded me with her mutterings about
+sabotage."
+
+She breathed in, perhaps to clear her mind of the
+remembered smell, and then she said, "Consider that while
+we can probably expect the drop pod's bridge crew to not
+be sedated, the cabin crew also sedate themselves after
+offering the sedatives to the passengers.  And it's the
+cabin crew that operates the lifeboats, isn't it, Julia?"
+
+Julia stammered, looking at Raphael.
+
+"It's a question of clarification," said Raphael.  "You
+must speak to answer it, even out of turn, Julia.  You
+may also give a short explanation provided it is solely
+on topic to the question."
+
+"Yes," said Julia, "that's what I would expect.  The
+cabin crew has a different lifeboat that can self-eject,
+unlike the others that are ejected externally, and is
+larger than this one."
+
+"And as I mentioned," said Katja, "the wrong wakening gas
+can cause people to make mistakes.  Question of
+clarification, Julia: if the cabin crew makes a mistake
+in the ejection sequence, could it cause the drop lifeboat
+to fail to fill the air bags properly, like in Michael's
+lifeboat?"
+
+Julia shook her head.  "Not really," said Julia.  "The
+ejection sequence should be entirely automated.  Although -
+if the automation fails, I would expect that it would be
+possible to perform the sequence manually, and that the
+cabin crew would be trained to perform the sequence
+manually if necessary.  So yes, it's possible, in my expert
+opinion.  Assuming that the automation fails, and the
+sequence was done manually.  A classic failure cascade."
+
+"Good," said Katja.  "I rest my case.  There was sabotage.
+And the saboteur is on this boat, at least originally, so
+Michael can't be the saboteur.  It's one of you three -
+Raphael, Nicole, or Julia."
+
+"Question of clarification," said Nicole angrily, "why do you
+exempt yourself?"
+
+"Because I'm not the saboteur!" said Katja.
+
+"But you were originally on this boat -"
+
+"Point of order," said Raphael.  "Judge, no challenges at
+this point.  You can challenge it later during the synthesis
+stage of the Nominal Group Technique.  Let the main idea
+stand as stated by Katja; the group as a whole can decide to
+modify it later."
+
+"Anyway," said Katja, "I'm done."
+
+"Question of clarification," said Raphael.  "How did the
+saboteur ensure that this boat would be safe from a mistake
+in the ejection sequence?"
+
+"Simple," said Katja, "..."
+
+She stopped.
+
+"Okay," said Katja, "you almost got me there.  But I'm on to
+you, accountant.  The sedatives are optional, although
+practically everyone takes it.  The crewperson who operated
+this lifeboat didn't take the sedative, and his or her
+thinking was not impaired."
+
+"That's speculation," said Raphael, "and -" he waved his
+hand in front of his face - "I'm sorry, that was a challenge
+and not allowed at this stage.  Sorry.  I'll save it for
+later.  Julia, write down the addition as another main idea.
+Does anyone else have any more questions of clarification?"
+
+Nobody spoke up to ask more questions, so Raphael nodded to
+Julia -
+
+"Main ideas," said Julia, "Katja's reported observation is
+that the wrong wakening gas was used; wrong wakening gas
+causes mistakes; mistakes might cause failures of lifeboat
+ejection; one of original members on this boat is saboteur,
+one of Raphael, Nicole, or Julia; crewperson who ejected
+this lifeboat is another saboteur.  Is that okay?"
+
+"Thank you, Engineer," said Raphael.  "Now, let us proceed
+to the next stage: synthesis.  It's the centripetal stage of
+the Nominal Group Technique.  In this stage, we can each
+give our reactions and reflections on each of the main ideas
+generated and shared in the previous stage.  We can also move
+to have an idea modified, or to be copied and then modified,
+or to merge two or more ideas together, with the source ideas
+either retained or removed.  Or the reverse operation, split
+an idea into two or more ideas, with the source idea retained
+or removed.  Ideas cannot be removed unless they are
+modified, merged, or split.  That's important: ideas cannot
+be deleted.  Modification and merging of ideas requires at
+least three of us five to agree to it without either of the
+remaining two objecting; or at least four of us to agree if
+the remaining one objects.  I'd like to make the discussion
+organized, although... give me a moment, okay?"
+
+They let Raphael ponder for a while -
+
+"Katja," said Raphael, "Medic, can we borrow the bottle of
+shark repellent?"
+
+"Why?" said Katja, genuinely puzzled.
+
+"To use as the token," said Raphael.  "The token means that
+whoever holds the token is the only one who can speak, in
+order to give comments and reflections, and in order to
+move for ideas to be modified, merged, or split.  The bottle
+will float in the water?"
+
+"Yes," said Katja, "I would assume so."  She took out the
+bottle, still puzzled, and experimentally dropped it into
+the water.  "Yes, it floats."
+
+"Good," said Raphael, fishing it out of the water, "so in
+case we mishandle it, I or the Executor can fetch it
+easily.  I was thinking of using Julia's notepad or pen, but
+we can't get the notepad wet and I doubt the pen will float.
+Okay, rules for the token: only the current holder of the
+token can give reflections or reactions to the ideas, and
+initiate moves for modification or merging.  After the holder
+has run out of things to say for the moment, he or she may
+offer it to anyone who asks for it.  If multiple people ask
+for it, the holder chooses who to give it to.  However, as
+Administrator, I hold the right to override the choice if I
+observe that someone is consistently being denied access to
+the token -"
+
+"Wouldn't you be able to abuse that?" said Michael.  "You
+could always override who we choose, to give you an unfair
+advantage at airing only your own ideas."
+
+"- as I was about to say, Executor," said Raphael, "I have
+the right to override the destination of the token, unless
+two of you object, or, if one supports me, unless three of
+you object.  In that case, the destination chosen by the
+current holder is not overridden.  Democracy wins, okay?"
+
+Michael shrugged, rocking their boat slightly.
+
+"Also, when the holder moves to modify, merge, or split
+ideas, the token rule still holds, but after proposing, the
+holder should pass the token around so that others can
+voice arguments for or against, promise to vote particular
+ways if the exact wording is changed in particular ways,
+etcetera.  However during this time the topic is restricted
+to the motion being proposed, and after voting the token
+reverts to the proposer.  Got that?"
+
+"That," said Julia, "sounds complicated."
+
+Raphael shrugged.  "True," he said, "but it keeps the
+discussion from becoming a chaotic shouting match.  Is
+that okay to everyone?"
+
+There were shrugs and nods.
+
+"Now," said Raphael, "the synthesis stage ends when the
+holder of the token has nothing further to say, and no one
+else asks for the token.  Then the ranking stage begins.
+Does everyone agree to the procedure?"
+
+There were nods of assent.
+
+"Okay," said Raphael, "let me begin -"
+
+Nicole raised her hand, and said, "Before the next stage,
+everyone, first I'd like us all to recite the three litanies.
+If that is all right, Administrator?"
+
+Raphael blinked, and said, "If your moral expertise suggests
+it, please lead us in the litanies, Madam Judge Angel."
+
+She closed her eyes, breathed deeply, to help enter a
+rationalist trance state.  The others would do the same, she
+knew.
+
+"Litany of Tarski," said Nicole, "repeat after me: If there
+is a saboteur, and he or she is among us, then I desire to
+believe that there is a saboteur, and he or she is among us.
+If there is no saboteur, or he or she is not among us, then
+I desire to believe that there is no saboteur, or he or she
+is not among us.  Let me not become attached to beliefs I do
+not desire."
+
+She intoned, again, hearing the rest of the community repeat
+the words they knew by heart: "Litany of Gendlin: What is
+true is already so; owning up to it does not make it worse.
+Not being open about it does not make it go away; and because
+it is true, it is there to be lived.  Anything that is untrue
+isn't there to be lived.  I can stand what is true, for I am
+already enduring it."
+
+And finally: "Litany of Occam: If a possibility is simple,
+then I shall consider it more.  If a possibility is complex,
+then I shall consider it less.  The truth is usually simple;
+but occasionally it is complex.  The truth is sometimes
+complex; but often it is simple.  My judgment of simplicity
+or complexity may be wrong: 'the lady down the street is a
+witch, she did it' is not simple."
+
+There was a moment of reverent silence.
+
+
+Chapter 27
