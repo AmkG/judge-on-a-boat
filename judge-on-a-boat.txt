@@ -3230,6 +3230,38 @@ remains."
 
 He look at each of them.
 
+In the early twenty-first century, most
+proto-rational groups had a problem with a
+particular facet of Humanity's evolved brain:
+emotion.
+
+Many thought that rationality required the total
+expunging of emotion from all thought.
+
+But the Senseis considered it absurd.  If a
+civilization of barbarians were to attack a
+civilization of rationalists, the Senseis reasoned,
+then if the rationalists lost because their people
+could not defeat the raw savage emotional intensity
+of the barbarians, they weren't really very
+rational after all.
+
+Rationality - instrumental rationality - was for
+winning; emotions were a tool that could be wielded
+to exert rationally-controlled social force (and,
+thereby, could be used to win).  What was needed
+was not the extirpation of emotion from rational
+life, but control over its expression.
+
+Rationalists should win over barbarians, because
+they could control their emotions, whip it to just
+the right level of intensity to maximize the
+benefits without losing the plusses to the
+inevitable drawbacks.
+
+Nicole was impressed; Raphael had used his outburst
+almost like a surgically precise scalpel.
+
 Nicole spoke.  "I'm sorry for triggering the
 earlier, uh, 'brainstorm', Administrator," she
 said.  "I suppose I can understand why the term
@@ -3430,10 +3462,10 @@ sorry, so I'll just cut it short and point out
 that a strong-enough power surge can shut off
 the power supply of the cameras, cause damage to
 the pod, and possibly cause various failures in
-the lifeboats.  The source of the power surge
-can be some natural fluke, some accident or
-oversight.  Or it could be sabotage - a very
-simple sabotage, at that."
+other equipment - like the lifeboats.  The
+source of the power surge can be some natural
+fluke, some accident or oversight.  Or it could
+be sabotage - a very simple sabotage, at that."
 
 She raised up her notepad, and said, "Main
 ideas: Julia's reported observation is that
@@ -3998,7 +4030,7 @@ rescued and I still won't be an Administrator, at least not
 until I get the full training and the works.  For now, I am
 Administrator because of circumstance."  He winced a little.
 "You know, now I'm even more sorry for swimming off because
-Julia called out the uselessness of accountancy in a bad,
+Julia called out the uselessness of accountancy in an
 extreme situation.  It's still useful outside of this
 situation, it's a high-paying if boring vocation.  And at
 least being bored with it got me interested into
@@ -4062,11 +4094,11 @@ He made a fist.  "So I think that we should be suspicious
 at attempts to fix the identity of the saboteur.  Instead,
 we should first establish if there is at least one saboteur
 on this boat at all: a simple 'yes there is at least one'
-or 'no there no saboteurs on this boat at all.'  Because
-then the choices are clear-cut: actual saboteurs will
-attempt to twist the result towards 'no,' while
+or 'no there are no saboteurs on this boat at all.'
+Because then the choices are clear-cut: actual saboteurs
+will attempt to twist the result towards 'no,' while
 non-saboteurs will want to get the best result, which is
-towards reality: as per Litany of Tarski.  The existence
+towards reality, as per Litany of Tarski.  The existence
 of a saboteur means that the non-saboteurs will present
 information that suggests there is, but the saboteurs
 will present information that suggests there are none.  On
@@ -4075,16 +4107,27 @@ will present information that, in total, suggests there are
 none.  So assuming there are more non-saboteurs than
 saboteurs on this boat, we can still get at least the
 correct information: communal rationality can still win.
-So I propose that we ignore the fact that we are playing
-Paranoid Debate: if there are one or two saboteurs, we can
-get hints of who they are if we focus on answering the
-simpler 'yes'-'no' question, and only that question.  If
-there are none, we all, as an aggregate, will conclude
-that there are none, as long as we remember our commitment
-to truth and avoid biasing towards presenting information
-that there are none - that is, if we avoid signaling.  If
-there are three or more saboteurs - then the non-saboteurs
-are probably doomed anyway."
+So I propose that we can safely ignore the fact that we are
+playing Paranoid Debate: if there are one or two saboteurs,
+we can get hints of who they are if we focus on answering
+the simpler 'yes'-'no' question, and only that question.
+If there are none, we all, as an aggregate, will conclude
+that there are none, as long as we remember our
+precommitment to truth and avoid biasing towards presenting
+information that there are none - that is, if we avoid
+signaling.  If there are three or more saboteurs - then the
+non-saboteurs are probably doomed anyway."
+
+Raphael idly touched his cheek.  "In conclusion: we can
+ignore the fact that we are playing Paranoid Debate.
+Because: If there are no saboteurs, then each of us, being
+honest non-saboteurs, will be able to present a lot of
+evidence that there are no saboteurs.  If there are a few
+saboteurs, then the non-saboteurs will present some
+evidence for saboteurs and only a little evidence against
+it, but saboteurs will present only evidence against it: if
+they don't, they would lose.  So in this particular case,
+we can detect hidden deceivers."
 
 He fell silent, hand still clutching the token.  After a
 while, Michael raised his hand, followed by Nicole, asking
@@ -4106,3 +4149,25 @@ makes it harder for saboteurs, if they exist, to hide among
 us.  I'm sorry, I should have thought of it earlier before we
 started.  But anyway: what do you think, everyone?"
 
+
+Chapter 29
+
+"Hmmm," said Adams as he finished the chapter.  "A
+complicated solution, Administrator Yu.  Or so it would
+seem.  What do you think of Administrator Yu's attempt to
+make moot the fact that they are playing Paranoid Debate,
+Judge Verrens?"
+
+Verrens paused, his hand raised.
+
+He was visualizing a featureless white room -
+
+- Adams timed it.  A proper crisis of faith needed
+time, and he was almost sure that Verrens was cutting it
+too close -
+
+- and when the trance was over, Verrens lowered his
+hand.
+
+"Yes, Lord Judge," he said, "I agree with Administrator
+Yu -"
