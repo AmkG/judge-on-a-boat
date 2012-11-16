@@ -4197,7 +4197,7 @@ find out if she should change her mind.
 On the mental tools were carved ancient words of great and
 eldritch power: "Do not complete the old pattern!"; "Use
 the 'try' harder: make an effort, do not just give up";
-"Your brain does not know for certain: hold off before you
+"Your brain does not know for certain: do not immediately
 propose solutions"; "Search carefully for the thought at
 the back of your mind"; "Attack the weak points of your
 belief: you're doing it a favor by checking it!"; "You
@@ -4233,8 +4233,58 @@ As her companions bickered, within her mind she asked herself
 the question: "Is Raphael correct, that limiting the explicit
 discussion to only the question 'is there at least one
 saboteur on this boat?' would be superior and avoid problems
-of cooperating in a Byzantine environment where potential
-traitors exist?"
+of cooperating in an environment where potential traitors
+exist?"
 
 And she thought -
 
+One argument against Raphael's proposal was that it was
+complex ("Feel the weight of each burdensome detail:
+simplify").  Or was it? ("Your brain does not know for
+certain: do not immediately propose solutions")
+
+But the question being considered in the disputation arena
+was complex.
+
+Wait: what was that thought again? ("Search carefully for
+the thought at the back of your mind")
+
+The question itself was complex: In a game of Paranoid
+Debate, what would happen if the question was "Who are the
+deceivers?"  The optimal strategy for a deceiver would be
+to point the evidence towards someone else, diluting the
+pool of evidence, possibly to the point of uselessness.
+
+But: if you rephrased the question to "Is there at least
+one deceiver?", what would the optimal strategy for a
+deceiver be?
+
+Well, it definitely could not be "point the evidence
+towards someone else," because what Raphael was proposing
+was that evidence pointing to specific identities was to
+be made inadmissable.
+
+By simplifying the question to that extent, the only
+available strategies to a deceiver would be: (1) twist
+the evidence towards 'no', (2) do not twist the evidence,
+(3) twist the evidence towards 'yes'.  Were there others?
+("Use the 'try' harder: make an effort, do not just give
+up")
+
+Wait - the end effect of (2) and (3) was the same!  There
+were only two actual available strategies for a deceiver:
+(1) twist the evidence towards 'no' (2) allow the group
+consensus to settle towards 'yes'.  Picking (2) would be
+directly losing.  Picking (1) would cause the deceiver to
+stick out like a sore thumb among non-deceivers who would
+honestly present evidence suggesting the lack of
+deceivers.
+
+So it seemed that Raphael was correct.
+
+But wait: what if Raphael was wrong? ("Do not argue on
+only one side of the debate")
+
+What would the world be like if the better choice was to
+find who the deceivers were, rather than whether they
+existed?
