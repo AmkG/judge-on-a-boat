@@ -4426,12 +4426,13 @@ Adams promptly skipped to the last page of the chapter.
 "Well," said Adams, "as I was saying earlier, the
 likelihood of sabotage is low.  And the argument you
 expressed earlier was solely about how Raphael's
-new procedure was superior.  But then, you said earlier
-that you would bet at odds of five to one against
-sabotage, whereas Nicole is still at the stage where
-she would bet at even odds against sabotage; or rather,
-against the saboteur being in the same boat as she is,
-which is a strictly lower probability than sabotage."
+new procedure was superior; again, you are slower than
+Nicole.  But then, you said earlier that you would bet
+at odds of five to one against sabotage, whereas Nicole
+is still at the stage where she would bet at even odds
+against sabotage; or rather, against the saboteur being
+in the same boat as she is, which is a strictly lower
+probability than sabotage."
 
 "Yes, Judge," said Verrens.  "As written, it is good
 to see a more detailed description of changing one's
@@ -4447,7 +4448,7 @@ assumptions and the same knowledge of the evidence
 will end up agreeing, after all.  It is not possible
 for rationalists to agree to disagree: they can agree
 to defer discussion later in favor of higher priority
-actions, but then they would not have the same
+actions, but then they would not have common
 knowledge of the issue under discussion, since the
 discussion is prematurely cut short."
 
@@ -4457,27 +4458,213 @@ knowledge of the posteriors?" said Verrens.  "As in,
 Alice and Bob know, Alice knows that Bob knows, Bob
 knows Alice knows Bob knows, and so on?"
 
-"True," said Adams.  "And of course the knowledge is
-unidirectional: both Verrens and Angel know, but only
-Verrens knows that Angel knows.  Still, reasonably
-speaking you are being given the same information
-about the event in question; assuming both of you
-have similar backgrounds - both of you are young
-Judges who came here to Earth from the Mars Lagrange
-1 colony for the Judge examination - and knowing you
-are being given the same information, you will
-produce approximately the same conclusions."
+"True," said Adams.  "And in your case the knowledge
+is unidirectional: both Verrens and Angel know, but
+only Verrens knows that Angel knows.  Still,
+reasonably speaking you are being given the same
+information about the event in question; assuming
+both of you have similar backgrounds - both of you
+are young Judges who came here to Earth from the Mars
+Lagrange 1 colony for the Judge examination, and so
+on - and knowing you are being given the same
+information, you will produce approximately the same
+conclusions."
 
-"But the precision -"
+"But the precise similarity -"
 
-"- is understandable," said Adams.  "And it is not
-in fact precise: remember that Nicole currently
-assigns a higher probability towards sabotage than
-you do.  She will bet only at even odds; you would
-bet at greater odds for no sabotage versus lesser
-odds against it."
+"- is not in fact precise," said Adams.  "Remember
+that Nicole currently assigns a higher probability
+towards sabotage than you do.  She will bet only at
+even odds; you would bet at greater odds for no
+sabotage versus lesser odds against it."
 
 Verrens nodded.
 
 "See?" said Adams.  "Now we agree, given sufficient
 time to discuss a topic: Aumann's Agreement."
+
+"Judge," said Verrens, "it makes me wonder - in a
+rational society, then, such structures as
+disputation arenas or democracy would not be
+necessary.  Aumann's Agreement Theorem would
+preclude the necessity of such structures."
+
+"In a perfectly rational society, maybe," said
+Adams.  "But as you know, Humanity has not yet
+achieved perfect rationality.  We can be extremely
+rational at some times, we can be somewhat rational
+at all times, but Humanity has not yet achieved the
+ideal of perfect rationality at all times.
+Consider the characters of the novel; both Raphael
+Yu and Ekaterina Ivanova showed irrationality at
+times of stress.  And arguably Julia Montega, when
+Katja revealed the possibility of sabotage; she was
+kess than helpful in revealing important
+information, until Administrator Yu initiated a
+disputation arena to gather relevant information."
+He sniffed.  "Although we might argue that those
+are generalizations from fictional evidence, this
+novel is, as I have insisted before, true - in a
+way.  Thus, it would not be fallacious to
+generalize from the evidence presented in this
+novel; it strives to reflect reality as closely as
+possible, after all."
+
+"Even though events such as failed planetary drops
+are extremely unlikely, Judge?" said Verrens.
+
+Adams grinned.
+
+"Ah, my young Judge," he said.  "You once revealed
+to me an ending of a chapter by revealing only the
+existence of a secret.  Afterwards I repaid this
+faux pas by revealing the existence of another
+secret.  Which would have been quite fair to both of
+us, tit for tat, but now you leave yourself open to
+another revelation of another existing secret."
+
+Verrens appeared puzzled.  "I'm sorry, Judge," he
+said, "I don't -"
+
+Then he stopped.
+
+Afterwards, he said, "Oh.  I see.  But how?"
+
+"How?" said Adams, grinning even wider.  "Why, the
+most obvious possible method: by being more likely
+than the alternatives.  Although I suppose you
+were asking, 'how were the characters put into this
+current situation?'  Well, as to that, I leave you
+to your speculations!  I know too much already,
+from the few clues already given, about the truth;
+it would be a tremendous faux pas for me to give
+to you my own speculations, as Aumann's would
+automatically reveal everything to you.  So I leave
+that secret as another puzzle for you."
+
+"Judge, spare me!" said Verrens.  "I still have to
+solve your earlier puzzle!"
+
+"Ah, yes," said Adams, "the vexing question of what
+moral dilemma will Nicole have to experience at the
+end of this particular disputation arena.  Do not
+worry, for there seems to be no clues at all so far
+as to what the moral dilemma will be.  And my
+speculation that there will be one lies in extra
+information, about particular patterns that the
+plot designer tends to follow.  This is knowledge
+I have derived by reading numerous productions and
+versions of novels by the plot designer."
+
+"And I think, Judge, that it is then unfair to
+expect me to speculate properly," said Verrens.
+
+"Yes," said Adams, "for this older puzzle it is
+indeed unfair, as it is simply my personal revenge
+on you.  But for the new puzzle, the clues have been
+embedded in the novel; I reveal it with no
+additional hidden information that you have not seen
+for yourself written in the novel.  But I leave the
+new puzzle to you; let us move on to other topics."
+
+"Well," said Verrens, as he groped for something
+to bring up, "we were earlier talking about Aumann's
+Agreement Theorem and the social structures such as
+the various disputation arenas, and democracy.  Or
+even Administration, for that matter.  Speaking
+completely hypothetically, Judge, if we were to
+achieve perfect rationality, then we would be able
+to dispense with such things, as they would be far
+less efficient than allowing Aumann's to take hold."
+
+"Would they, Judge?" said Adams.  "I rather think
+that it is precisely those social machines that
+allow Aumann's Agreement Theorem to actually work.
+Remember, we need to achieve a stable state of
+common knowledge, before Aumann's Agreement Theorem
+forces all rational participants to the same
+decision.  Social machinery such as disputation
+arenas allow rational participants to achieve
+common knowledge."
+
+"Ah," said Verrens.  "So in a perfect rational
+society, they are still necessary."
+
+"It is not just such social machinery that is
+necessary," said Adams.  "Assuming that the
+Microgenetics Scientists someday figure out how to
+let us self-modify to perfect rationality, the
+community of Judges would still be necessary."
+
+"How so, Judge?" said Verrens.
+
+"Rationality - particularly instrumental
+rationality - is used in order to win," said Adams.
+"In particular, it does not define what constitutes
+as a win.  Those are values.  The early Senseis,
+like all modern Humans, inherited a complex
+biological computer composed of barely-working
+hacks.  They decided that the most important problem
+to tackle was rationality - to achieve consistency
+in striving towards the goals; to be able to rank
+our values to determine what, in the worst case, we
+would find least distasteful to sacrifice; and to
+determine accurate maps towards our precommitted,
+stated goals - and left the problem of defining the
+actual goals that Humanity should pursue to us.
+And when I say 'us', I mean us the Judges.  It is
+up to us to figure out the best system to determine
+what we truly value, using as reference what we
+experimentally determine to be the values of our
+Human brains.  Of course, such values are as
+inconsistent and unclear as the hacked rationality
+cores of the brain, but it has allowed some
+important backward-compatibility with pre-rational
+and proto-rational Human brains."
+
+"Why didn't the Senseis start with attempting to fix
+our values?" said Verrens.
+
+"Mostly", said Adams, "because Humanity, back then, 
+had values that they shared almost universally, but
+which individuals pursued in haphazard, not very
+rational methods.  Two different people with
+exactly the same values might very well have sworn
+oaths to kill one another, because of their equally
+irrational views of how to achieve their ultimately
+shared values.  As an optimization problem, there
+was a better ratio of results to effort in fixing
+the rationality of Human beings.  For another,
+consider that rationality is an important tool to
+us Judges, in studying the ramifications of various
+ethical systems.  You might as well ask why the
+early Scientists started with studying the physical
+world first, rather than with mental rationality or
+with values: at that time, understanding the
+physical world gave the best improvement in the
+Human condition, and incidentally also provided
+secondary tools for the improvement of
+rationality."
+
+Adams had a faraway look.
+
+"Instrumental rationality and epistemic
+rationality," he said.  "The two different things
+that a modern Human might be talking about when
+he or she speaks of 'rationality'.  Epistemic
+rationality: the act of making your map correspond
+to the territory, and the center of most of the
+actual techniques that modern Humans are taught as
+part of the basic and intermediate rationality
+training.  Instrumental rationality: achieving the
+values you have declared your precommitment to,
+and assisted by techniques of changing your mind
+and techniques against akrasia.  Or, to be short
+and pithy: to win."
+
+Adams looked back at Verrens.  "Well," he said,
+"Judge Verrens, please consider at least your
+new puzzle as you read on.  As for the old
+puzzle, well, please consider it simply as a
+good-natured prank played on you by a garrulous
+old Judge.  So, let us continue."
