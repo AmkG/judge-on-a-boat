@@ -4349,17 +4349,18 @@ of Occam.
 
 An accountant who was an amateur Administrator made some
 sort of sense: the movement of large amounts of money
-often represented the efforts of large groups of people,
-which would have to be coordinated by Administrators.
-And then there was the direct evidence that showed that
-Raphael did have at least some knowledge of
-Administration: witness the obscure disputation arena
-that he was able to explain to them, Notional Group
-Technique.  (No, wait, sorry Raphael, that was Nominal
-Group Technique.)  In fact, one might even doubt if
-Raphael was indeed an accountant: there was no evidence
-of skill in that field so far (not that there would be
-a chance to practice it in a survival situation).
+often represented trading the efforts of large groups of
+people, which would have to be coordinated by
+Administrators.  And then there was the direct evidence
+that showed that Raphael did have at least some
+knowledge of Administration: witness the obscure
+disputation arena that he was able to explain to them,
+Notional Group Technique.  (No, wait, sorry Raphael,
+that was Nominal Group Technique.)  In fact, one might
+have grounds to doubt if Raphael was indeed an
+accountant: there was no evidence of skill in that field
+so far (not that there would be a chance to practice it
+in a survival situation like this one).
 
 But add the detail of having someone interested in not
 just Administration, but in Engineering.  That would be
@@ -4419,7 +4420,8 @@ there some minor detail that is different between
 Nicole's train of thought and your earlier argument for
 supporting Raphael's proposal to change the procedure?"
 
-"Ah," said Verrens, "none actually, Judge."
+"Ah," said Verrens, "none actually, Judge.  And please
+don't skip the chapter -"
 
 Adams promptly skipped to the last page of the chapter.
 
@@ -4532,10 +4534,10 @@ Afterwards, he said, "Oh.  I see.  But how?"
 
 "How?" said Adams, grinning even wider.  "Why, the
 most obvious possible method: by being more likely
-than the alternatives.  Although I suppose you
-were asking, 'how were the characters put into this
-current situation?'  Well, as to that, I leave you
-to your speculations!  I know too much already,
+than all the other alternatives.  Although I suppose
+you were asking, 'how were the characters put into
+this current situation?'  Well, as to that, I leave
+you to your speculations!  I know too much already,
 from the few clues already given, about the truth;
 it would be a tremendous faux pas for me to give
 to you my own speculations, as Aumann's would
@@ -4644,14 +4646,17 @@ with values: at that time, understanding the
 physical world gave the best improvement in the
 Human condition, and incidentally also provided
 secondary tools for the improvement of
-rationality."
+rationality.  It was the discovered results of the
+Neurological and Sociological branches of Science,
+after all, that the Senseis used as the basis of
+their techniques."
 
 Adams had a faraway look.
 
 "Instrumental rationality and epistemic
 rationality," he said.  "The two different things
 that a modern Human might be talking about when
-he or she speaks of 'rationality'.  Epistemic
+he or she says the word 'rationality'.  Epistemic
 rationality: the act of making your map correspond
 to the territory, and the center of most of the
 actual techniques that modern Humans are taught as
@@ -4763,6 +4768,23 @@ that you had not marked.
 Sometimes, just sometimes, and maybe, just maybe, what
 you had thought was "impossible" was in fact possible.
 
+Things that looked impossible sometimes did not match
+surface appearances.  A thousand years ago, people
+might have thought it impossible for mere Humanity to be
+able to discover how Human minds worked; and not just
+discover how Human minds worked, but also to develop
+tricks and techniques to make Human minds work better.
+Such a thing would have been impossible, then, to the
+point that mere pre-rational humans could not even
+imagine dividing the human mind into smaller, more
+easily understandable parts.  Philosophers in that
+backward era might very well have thought that a self was
+indivisible; they were completely oblivious and
+completely ignorant of the many sub-agents composing a
+Human mind.
+
+What could Nicole do, in the face of "impossible?"
+
 What was needed was perseverance.  Perseverance that
 worked across timescales: pre-rational humans might
 have rejected such impossible tasks in mere seconds,
@@ -4788,7 +4810,8 @@ could I present that would change your minds?  What
 would convince you to support this proposal?"
 
 Michael laughed.  "Why, there is no evidence that
-would convince me to do support it!" he said.
+would convince me to actually support the proposal!"
+he said.
 
 Katja appeared to agree; Julia did not seem to be as
 supportive of Michael's position, but -
@@ -4801,7 +4824,107 @@ change in procedure.  How could she do that?
 And then Nicole noticed what exactly Michael had
 said.
 
+And Nicole now had her next step.
+
 
 Chapter 33
 
+"The solution to Nicole's problem - at least her
+'next step' - seems obvious, does it not?" said
+Adams, as he put aside the papers of the chapter.
 
+Verrens, distracted as he was considering his own
+thoughts, took some time before he could answer.
+
+"Sorry, Judge," he said.  "I was still thinking of
+the new puzzle you gave to me."
+
+Adams smirked.  "Really, Judge?" he said.  "I
+wonder, were you in fact able to actually read this
+chapter, or were you too distracted to easily
+comprehend it?"
+
+"No, Judge," said Verrens.  "I did read it with full
+comprehension, although I confess my primary focus
+was in gleaning clues to your new puzzle.  In any
+case it is obvious that, in order to solve this
+current situation, the next thing that Nicole
+should do would be to -"
+
+"If it's so obvious, Judge," said Adams, "then let
+us not discuss it anymore; we agree to its
+obviousness, we have read the same chapter in
+parallel, we are both Judges and we have been
+reading the same novel so far, and thus we are
+likely at an Aumann's Agreement.  So let me then
+focus on a topic where I have deliberately avoided
+Aumann's Agreement: the new puzzle.  What have you
+so far gleaned, then?"
+
+"Well, Lord Judge," said Verrens, "the main thing I
+have gleaned is the existence of a secret.  First I
+had asked you about the incongruence of a novel
+that seeks to assign proper, realistic probabilities
+to all events, versus the very basis of the plot,
+specifically, the failed planetary drop pod.  Then
+you revealed the existence of a secret."
+
+"Good, so far," said Adams.  "Continue."
+
+"You revealed it," said Verrens, "and also claimed
+that this secret was itself something I could have
+discovered for myself.  You had also earlier pointed
+out that sabotage was unlikely, even though the
+rhythm of an investigative novel demands that a
+similarly significant event must have occurred, and
+that the rhythm of such stories demands that one of
+the characters presented in the novel must have
+actually caused the event.  Thus, by symmetry, I
+conclude: the planetary drop pod did not fail!"
+
+"Yes," said Adams, "correct so far.  But what
+evidence have you gathered from the novel itself?"
+
+Verrens shook his head.  "I wish," he said, "that I
+could restart reading the novel again at this
+point.  Perhaps then I could glean even more clues,
+Lord Judge."
+
+"Disallowed," said Adams.  "That would be less fun
+than watching you persevere onwards.  And I fear
+that we would have too little time to actually
+finish reading the novel, if we were to repeat it at
+this point.  So: no clues from the novel itself,
+rather than from me?"
+
+"None, Judge," said Verrens.  "Although -"
+
+"Yes?" said Adams.
+
+"Another clue," said Verrens, "which I have
+gleaned - again not from the novel, but from you.
+I'm sorry, Lord Judge, but I have yet to find a clue
+in the actual novel.  In any case, I suspect that
+your earlier puzzle - about a moral issue that
+Nicole will face after the disputation arena
+concludes - is not in fact a puzzle, or a joke
+played by some crazy old trickster.  It is,
+instead, a clue, and one which I failed to pick up
+on earlier.  Tsuyoku naritai - I wish to become
+stronger."
+
+Adams shook his head.  "Not even that, Judge
+Verrens," he said.  "Isshoukenmei - a desperate
+effort is needed.  But that is not enough, either.
+It must be 'shut up and do the impossible'.  Can you
+figure out why exactly Nicole and her companions are
+in this situation, when the planetary drop pod did
+not in fact fail?  Can you figure this out before the
+flow of the novel reveals it?"
+
+"Yes, Sensei," said Verrens, smiling.  "I shall do
+the impossible!"
+
+Adams laughed.  "Well," he said, "then let us
+proceed, so that both you and Nicole can shut up and
+do the impossible!"
