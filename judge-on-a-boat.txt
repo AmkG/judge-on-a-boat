@@ -4866,7 +4866,9 @@ have gleaned is the existence of a secret.  First I
 had asked you about the incongruence of a novel
 that seeks to assign proper, realistic probabilities
 to all events, versus the very basis of the plot,
-specifically, the failed planetary drop pod.  Then
+specifically, the failed planetary drop pod.  Failure
+of the planetary drop pod is an unlikely event, thus
+the novel's premise is a very unlikely story.  Then
 you revealed the existence of a secret."
 
 "Good, so far," said Adams.  "Continue."
@@ -4928,3 +4930,259 @@ the impossible!"
 Adams laughed.  "Well," he said, "then let us
 proceed, so that both you and Nicole can shut up and
 do the impossible!"
+
+
+Chapter 34
+
+"Michael," said Nicole, "why would you say that no evidence can
+ever make you change your mind?"
+
+"Because it's obvious, Madam Judge," said Michael, "that the
+circumstantial evidence adds up to Raphael's guilt.  There is a
+saboteur among us, and it is Raphael."
+
+"Ah," said Nicole, "you mean to say that you have reached the
+bottom line of your reasoning, and have a final conclusion?"
+
+"Yes," said Michael.
+
+"And further evidence will not move your choice?" said Nicole.
+
+"None whatsoever, Madam Judge," said Michael.
+
+"So," said Nicole, "you have fixed your estimate of probability
+to a flat 1.0, and you have reached the bottom line while
+others in your community have not reached it, and are approaching
+contrary destinations - in spite of the evidence already
+presented being common knowledge to us all.  You do understand
+the meaning of this, Sir Executor?"
+
+In rationality training, the 'bottom line' referred to the final
+conclusion you derived and considered most likely true.
+
+And the one of the more important parts of rationality training
+was to suppress the built-in urge to start by filling in the
+bottom line and then writing justifications above it.
+
+Michael was being irrational.  Which was disturbing, since he was
+an Executor, and Executors were required to take at least the
+first half of the intermediate rationality training; many opted
+to take the entire intermediate rationality course.  Executors
+were trained in many techniques to incapacitate and disable
+fellow Human beings; and Judges (and trainees near their
+examinations, although a brief review of events often revealed
+this to curious aspiring and amateur Judges) were also informed,
+privately, that Executors could kill with their bare hands,
+if a sufficient formal declaration of Judgment was attested by a
+Judge.
+
+An irrational Executor was dangerous, akin to a gun whose
+safety was faulty.
+
+(This was also a rather major turn-off, but Nicole
+quietly picked up the mental sub-module that had suddenly
+brought that topic up, dragged it into a dark alleyway,
+and shot it.  Twice.  Just to make sure.  Right now she
+needed to survive and stay sane more than she needed to
+find a potential primary partner.  Or even a secondary
+one.)
+
+The problem was starting with a desired result, and then
+searching for evidence to support it or disconfirm it.
+Human beings, sadly, were biased to consistently overvalue
+the things they already thought they 'owned': ownership
+bias, where a thing owned was considered more valuable
+than other things, even though to a neutral observer they
+might have equal or even lesser value.  And a thought that
+you had already written on the bottom line was a thought
+that you owned, far more precious than any other competing
+thought that would be offered to you as replacement.
+
+There was a reason why, when Nicole had been trained to perform
+the ritual of changing one's mind, the mental tools given to her
+were inscribed with words like "Let your belief go: if it returns
+then it was true, if not, then it never should have been yours to
+begin with".  And words like "Expect nothing from the evidence:
+take no sides and be neutral".  And words like "Do not be
+motivated to move or stay anywhere: let the winds of evidence
+blow you where you should be".
+
+Such tools were desperately needed, in order to dislodge a
+thought from the clutching possessive grasp of a merely
+Human brain.
+
+Writing the bottom line first made it far too difficult to
+cross it out and replace it with the real, correct
+conclusion.  Far easier for a flawed Human brain to simply
+ignore the evidence against it, to protect the belief that
+was already written and could not be undone.  Writing the
+bottom line first was a sin against rationality.
+
+But an even worse sin against rationality was to assign any
+thought the probability of 1.0.
+
+Assign a probability of 0.9.  Or 0.99.  Or 0.999.  Or
+0.9999.  That was allowed, if you truly had prior evidence
+suggesting such a high degree of certainty.
+
+But never 1.0.
+
+Because of the way the mind worked - as a ridiculously simplified
+approximation of basic Bayesian analysis - any such probability,
+used as a prior belief for further thinking, would never get
+updated, not normally.  It would forever remain stuck at 1.0,
+unless a supreme effort was made to remove it.
+
+The Senseis taught that an idea - any idea - was worthwhile if,
+and only if, you could be persuaded to think otherwise.
+
+And if you had an idea that you had written on the bottom line
+before you had written the intervening steps from the premises,
+any idea to which you had indelibly assigned the probability
+1.0 - infinite certainty - then you could not be persuaded to
+think otherwise.  If a retina could be called 'blind' if its
+output did not change based on whether a photon (a piece of
+evidence entangled from the real world) hit it or not, then a
+brain could be similarly called 'blind' if its conclusion did
+not change based on whether a piece of evidence entangled
+from the real world was fed into it or not.
+
+What Michael had effectively done, in claiming that no evidence
+would convince him to support the proposal instead, was to admit
+that he was blinded.
+
+In a world of the blind, how could a seeing person pass the gift
+of sight?
+
+By shutting up and doing the impossible, it seemed.  The Senseis
+had succeeded in doing so, and the people they had taught had
+been mostly pre-rational.  Nicole might right now be just one
+rationalist, but Michael would have at least the basic
+rationality training.  She knew that the Senseis had managed
+to force sightedness - rationality - on the world; she was
+living in a universe that had resulted from the rise of the
+Senseis and the Helvetian War.  It should be possible for her
+to find a way to make Michael more rational, and accept
+Raphael's proposal.
+
+Michael smirked.  "Yes, Judge," he said.  "I know perfectly
+well what it means: it means that I know I'm right!"
+
+So how could Nicole force Michael back into rationality?  He
+seemed more motivated than Katja had been, earlier - so it
+was likely that tricks using the Dark Arts would not work.
+
+First, Nicole had to understand what was going on inside
+Michael's mind.  Next... well, she still didn't know, the
+overall goal was still "impossible" in the "I don't see
+any way to do that" sense.  So: first figure out what was
+going on inside Michael's mind, and then figure out what to
+do next.
+
+And the wrong way to do that would be to try to imagine what
+was going on inside Michael's mind.
+
+Human brains were huge, complicated neural networks whose
+state at each moment shifted and changed in chaotic ways.
+When the rise of intelligence occurred, Human beings had to
+evolve ways of modeling other Human brains.
+
+The method that evolution had stumbled into involved
+modifying some simple basic assumptions of the brain, and
+then running the brain-function for a few seconds:
+imagination.
+
+The problem was that the few modified basic assumptions
+were often not enough to properly model another Human's
+brain.  Affect - the current mood or emotion gripping a
+Human brain - was not easily modified to match another
+person's, but often had an tremendous effect on the final
+decisions thought by a Human brain.  No doubt
+Neurological or Sociological Scientists could name even
+more things that could change the final decision.
+
+How to scout the territory so that she could write an
+accurate map?
+
+"What are you thinking, Michael?" said Nicole.  "Because
+to reach a conclusion already, without all of us
+discussing the topic fully, means that you have information
+relevant to the topic that you haven't given us yet.  And
+I'll be strict here: do not simply repeat what you said
+earlier.  Everyone has already heard that in the earlier
+stage, and not everyone is convinced that this shows
+high evidence of Raphael being the saboteur.  So there is
+some evidence that you haven't given."
+
+She looked at Michael piercingly; another Dark Art kept
+in reserve, now spent - she hoped more would not become
+necessary soon, modern rational Humans tended to pick up
+on Dark Art usage quite quickly, and got easily
+desensitized to them as a result.
+
+"You refuse to consider the possibility that you are
+wrong," said Nicole.  "I am rational.  I will consider
+the possibility that I, yes I, am wrong.  There is
+evidence that will convince me of the wrongness of my
+position: show me that you have some evidence that you
+have not already shown, and I will begin to
+reconsider.  For now, my current position is: Raphael is
+quite right in proposing the modified procedure.
+Present me with evidence that Raphael is the saboteur -
+evidence that you have not shown me before - and I will
+back off and reconsider my position.  I, Nicole Angel,
+of vocation Judge, solemnly proclaim: I defy the data!"
+
+
+Chapter 35
+
+Adams shook his head as he finished the chapter.
+Verrens, however, was still leafing through the
+chapter.
+
+When Verrens finished, Adams was smiling at him.
+
+"Well, my young Judge," said Adams, "I hope you have
+not suddenly lost your ability to speed read?"
+
+"No, Judge," said Verrens.  "I simply read this
+chapter twice.  But I confess I cannot find any
+evidence regarding how the characters are now in a
+lifeboat on some nameless ocean, when I am very sure
+that the planetary drop pod did not in fact fail."
+
+"As to that," said Adams, "the clues are few and far
+between.  But in any case, the procedure is to discuss
+the chapter, and if you have not found any clues in
+this chapter for the puzzle I gave, then what is your
+reaction or opinion on the chapter itself?"
+
+"It seems to me," said Verrens, "that this chapter
+brings together some of the earlier ideas presented.
+The mental tools that are taught to us in the
+intermediate rationality training, used in the ritual
+of changing one's mind, or 'crisis of faith' as some
+older rationalists preferred to term it -"
+
+"Ah -" said Adams.  "Never mind.  Do go on."
+
+"- as well as the classic 'I defy the data' which
+modern Humans use both as a challenge, and as a
+precommitment to change their mind in the face of
+new evidence."
+
+"Any further observations?" said Adams.
+
+"None," said Verrens, "except that it seems that
+Nicole's 'do the impossible' is going much better
+than mine."
+
+Adams shrugged.  "For sufficiently impossible
+things," he said, "it is often very difficult to
+estimate the time frame that would be needed.
+And the steps involved are often not necessarily
+the most straightforward ones: sometimes a step
+away from the goal is needed in order to find the
+true path.  In any case, is that all?"
+
+"Yes," said Verrens.
