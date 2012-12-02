@@ -11,7 +11,7 @@ that processed "falling" extremely well, falling being
 a work-related risk for swinging around on trees - was
 putting out distress codes, feeding nasty hormones into
 her bloodstream, which really necessitated triggering
-her deep rationality training, but she didn't really
+her deeper rationality training, but she didn't really
 remember to do that part.
 
 But she survived, and in the end, that was what a brain
@@ -39,35 +39,68 @@ He had been summoned for a meeting, topic unspecified except
 for a vague "regarding your examination and recent promotion
 to unranked Judge", and his rationality training suggested
 that this summons, so recently after his examination and
-promotion, was not good.  It was less good, too, that now
-he had arrived at the appointed time, he had been asked to
-wait, and was still waiting almost an hour later.
+promotion, was not good.  It was less good, too, that having
+arrived at the proper time, he had been asked to wait, and
+was still waiting almost an hour later.
 
 Still, there was insufficient evidence that it was something
 specifically to fear, and so Verrens had
 clamped down on his misgivings, invoking some of the
-standard rationality forms developed against fear.  Don't
-fear failure.  Mantras to be repeated as a background thought
-loop, to keep the fear at bay, deeply ingrained training that
-was easy to maintain.  Special thought processes designed
-and refined to keep himself sane against fear.  It was easy,
-the little fear was no big deal, and thus Verrens was quite
-sane, even as his appointed time came and went, and he was
-still in the waiting room.
+standard rationality forms developed against fear.  Thus
+Verrens was quite sane, even as his appointed time came and
+went, and he was still in the waiting room.
 
 He'd even managed to nap a little, out of sheer boredom, that
 was how little the fear got through his trained defenses
 against it.
 
-Verrens got up, nodded, and entered the office of Judge
-David Adams.
+Verrens got up and nodded at the receptionist.
+
+"Yes, Miss," he said.  "I am Judge Emmanuel Verrens."  He
+stood up, waiting to be led into the office.
+
+"Excuse me," the receptionist said, "but the Judge would
+first like you to answer a few questions.  I apologize if
+they are basic, but he does not wish to be pestered by
+Technological Renouncers."
+
+"Ah," said Verrens.  "The questions are?"
+
+"First, please define 'epistemic rationality.'"
+
+"The art of updating your beliefs based on evidence," said
+Verrens.  "It is the art of mapmaking, of creating a mental
+map for the territory of the real world, and ensuring that
+the map reflects the territory as closely as possible: to
+achieve 'truth,' in fewer words.  It is the understanding
+that what is contained in the brain is not reality itself,
+that what we see and feel and experience is not reality
+directly, but is in fact a mental map, a map that is not
+the territory."
+
+"Thank you.  Now, please define 'instrumental rationality.'"
+
+"The art of winning," said Verrens.  "It is the art of
+achieving your goals and keeping your values - values that
+are shared across standard Human brains.  It involves the
+desire to become stronger, making a supreme effort, and
+the multitude of techniques to coerce a standard Human
+brain away from laziness, selfishness, and other
+weaknesses."
+
+"Good.  Please enter the door to your left."
+
+Verrens entered the door, vaguely concerned.
 
 
 Chapter 2
 
-Nicole Angel awoke to a blissful, swaying feeling, found her
-hand clutched tight to some rubber, or probably synthetic
-plastic, and saw the ocean surrounding her.
+Nicole Angel awoke to a blissful, swaying feeling.  The sun was
+just beginning to rise.
+
+Then she found that her hand was clutched tight to some rubber,
+or probably synthetic plastic, and she saw the vast beautiful
+ocean surrounding her.
 
 Memory came flooding back.
 
@@ -980,9 +1013,9 @@ should be changed."  He looked at Verrens
 expectantly.
 
 Verrens was trained in the basic rationality
-training required of all citizens, and in the
-intermediate rationality training required of
-all Judge trainees; he could not remember a
+training required of all Full Citizens, and in
+the intermediate rationality training required
+of all Judge trainees; he could not remember a
 topic called 'luminosity' -
 
 "You don't know?" said Adams.  "Well, I've
@@ -1575,14 +1608,15 @@ interest of reducing the cost of
 imprisonment and other punitive costs.
 
 But such individuals could not be considered
-as full citizens.
+as Full Citizens.
 
-Full citizens were controlled by the threat
+Full Citizens were those individuals whose
+decisions could be controlled by the threat
 of punishment from society.  Raphael's denying
 responsibility for his actions and thus
 exempting himself from culpability for his
 punishment, was tantamount to repudiating his
-status as full citizen.
+status as Full Citizen.
 
 Punishment was justified in the typical case
 where the threat of punishment could be
@@ -4501,7 +4535,7 @@ Consider the characters of the novel; both Raphael
 Yu and Ekaterina Ivanova showed irrationality at
 times of stress.  And arguably Julia Montega, when
 Katja revealed the possibility of sabotage; she was
-kess than helpful in revealing important
+less than helpful in revealing important
 information, until Administrator Yu initiated a
 disputation arena to gather relevant information."
 He sniffed.  "Although we might argue that those
